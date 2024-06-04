@@ -1,0 +1,76 @@
+body {
+    font-family: 'Arial', sans-serif;
+    
+}
+
+.section {
+    padding: 60px 0;
+}
+
+.section h2 {
+    margin-bottom: 40px;
+    color: #222;
+}
+
+#home {
+    background: linear-gradient(135deg, #ff4e50, #f25b0a);
+    color: #fff;
+    padding: 100px 0;
+}
+
+#home h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+#home p {
+    font-size: 1.2em;
+    margin-bottom: 40px;
+}
+
+#home a.btn {
+    margin: 10px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #f9d423;
+}
+
+.section.bg-light {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border: none;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    color: rgb(0, 0, 0);
+}
+
+.card-title {
+    color: #ff4e50;
+}
+
+footer {
+    background: #222;
+}
+
+a i {
+    margin-right: 5px;
+}
+
+.contact-icons a {
+    margin: 0 10px;
+    color: #ff4e50;
+}
+
+.contact-icons a:hover {
+    color: #f9d423;
+}
